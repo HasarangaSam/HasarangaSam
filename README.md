@@ -9,6 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasarangasam" alt="hasarangasam" /></a> </p>
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **C++**
