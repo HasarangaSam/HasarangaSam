@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasarangasam" alt="hasarangasam" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **C++, Java**
+- 💬 Ask me about **C++, Java, HTML, CSS, JS, PHP, Kotlin, OOP**
 
 - 📫 How to reach me **hasarangasamarakoon@gmail.com**
 
